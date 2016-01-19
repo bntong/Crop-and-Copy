@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{}},"description":"The usage of the crop and copy tools implemented in the java interface","type":"GAEJava","attributes":{"languageVersion":["1.6"],"language":["java"]}}
